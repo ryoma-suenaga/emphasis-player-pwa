@@ -1,0 +1,16 @@
+{
+  "name": "Emphasis Player",
+  "short_name": "Emphasis",
+  "description": "端末内の音楽を偶数次積分・微分エンファシスで再生するプレーヤー",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#121418",
+  "theme_color": "#121418",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
